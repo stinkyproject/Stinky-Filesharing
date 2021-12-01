@@ -5,7 +5,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@SharingUserbot](https://www.telegram.dog/SharingUserbot)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@SharingUserbot](https://www.telegram.dog/Stinkyrz)**
 
 ### Features
 - Fully customisable.
@@ -21,7 +21,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrismanaziz/File-Sharing-Man)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Stinkyrz/Stinky-Filesharing)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
@@ -84,7 +84,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/SharingUserbot) For Support/Assistance And Our [Channel](https://www.telegram.dog/Lunatic0de) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/StinkyGroupChatt) For Support/Assistance And Our [Channel](https://www.telegram.dog/Stinky) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
