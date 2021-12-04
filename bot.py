@@ -1,5 +1,5 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
+# Recode by @Callme_stinky
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 import sys
@@ -64,7 +64,7 @@ class Bot(Client):
                     f"Silakan periksa kembali var FORCE_SUB_GROUP dan Pastikan Bot anda Admin di Channel dengan izin link invite Pengguna melalui link undangan, Subs Group Saat Ini: {FORCE_SUB_GROUP}"
                 )
                 self.LOGGER(__name__).info(
-                    "\nBot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
+                    "\nBot Berhenti. Gabung Group https://t.me/StinkyGroupChatt untuk Bantuan"
                 )
                 sys.exit()
         try:
@@ -78,7 +78,7 @@ class Bot(Client):
                 f"Pastikan Bot adalah Admin di Channel DataBase, dan Periksa kembali Nilai CHANNEL_ID, Nilai Saat Ini: {CHANNEL_ID}"
             )
             self.LOGGER(__name__).info(
-                "\nBot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
+                "\nBot Berhenti. Gabung Group https://t.me/StinkyGroupChatt untuk Bantuan"
             )
             sys.exit()
 
