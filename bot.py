@@ -1,6 +1,6 @@
 # (©)Codexbotz
 # Recode by @Callme_stinky
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/Stinkysupport & t.me/Stinkyrz
 
 import sys
 
@@ -78,7 +78,7 @@ class Bot(Client):
                 f"Pastikan Bot adalah Admin di Channel DataBase, dan Periksa kembali Nilai CHANNEL_ID, Nilai Saat Ini: {CHANNEL_ID}"
             )
             self.LOGGER(__name__).info(
-                "\nBot Berhenti. Gabung Group https://t.me/StinkyGroupChatt untuk Bantuan"
+                "\nBot Berhenti. Gabung Group https://t.me/Stinkysupport untuk Bantuan"
             )
             sys.exit()
 
