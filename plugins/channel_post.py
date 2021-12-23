@@ -1,6 +1,6 @@
 # (©)Codexbotz
 # Recode by @Callme_stinky
-# t.me/StinkyGroupChatt & t.me/Stinkyrz
+# t.me/Stinkysupport & t.me/Stinkyrz
 
 import asyncio
 
