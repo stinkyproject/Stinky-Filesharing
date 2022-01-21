@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Stinkyrz/Stinky-Filesharing",
+  "repository": "https://github.com/stinkyproject/Stinky-Filesharing",
   "logo": "https://telegra.ph/file/2c5ec091fb6e96628e610.jpg",
   "env": {
     "TG_BOT_TOKEN": {
